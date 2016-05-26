@@ -1,6 +1,3 @@
-<<<<<<< a59cf95e6db43f224600eed06c04130ce4b8e979
-# rock-paper-scissors
-=======
 # Rock-paper-scissors
 
 This README outlines the details of collaborating on this Ember application.
@@ -53,5 +50,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
->>>>>>> Initial Commit from Ember CLI v2.3.0
